@@ -1,4 +1,4 @@
-# Shruti Shinde Portfolio
+# My Portfolio
 
 A responsive single-page portfolio built with React, Vite, Tailwind CSS, and Framer Motion.
 
